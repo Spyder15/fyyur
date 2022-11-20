@@ -1,4 +1,4 @@
-# fyyurFyyur
+# Fyyur
 -----
 
 ### Introduction
